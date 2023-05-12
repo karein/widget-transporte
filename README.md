@@ -7,5 +7,5 @@ Desafio 19 - Bora Codar - Rocketseat
 <https://www.rocketseat.com.br/boracodar>  
 
 
-### Visualização da imagem no browser
+### Visualização no browser
 ![Visualização da imagem no browser](./assets/readme/widget.png "Widget Web Image")
